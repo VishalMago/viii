@@ -3,6 +3,7 @@ package com.model;
 public class Employee {
 	private int empId;
 	private String empName;
+	private int salary;
 	public int getEmpId() {
 		return empId;
 	}
